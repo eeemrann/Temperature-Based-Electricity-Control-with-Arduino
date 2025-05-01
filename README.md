@@ -1,4 +1,5 @@
 🔌 Temperature-Based Electricity Control with Arduino
+
 This project is a smart home automation system built using Arduino that controls electrical appliances based on ambient temperature. It uses a temperature sensor (like the LM35 or DHT11) to monitor the environment and automatically turns on/off connected devices (e.g., fans, heaters) to maintain a desired temperature range. Ideal for energy efficiency and intelligent temperature regulation in homes or offices.
 
 ---
